@@ -4,15 +4,17 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.amber[300],
+        backgroundColor: Colors.redAccent[400],
         appBar: AppBar(
-          backgroundColor: Colors.redAccent[700],
+          backgroundColor: Colors.black,
           title: const Text(
-            'I Am Ferrari Fan',
+            'Forza Ferrari',
           ),
         ),
-        body: const Image(
-          image: AssetImage('images/ferrari.png'),
+        body: const Center(
+          child: Image(
+            image: AssetImage('images/ferrari.png'),
+          ),
         ),
       ),
     ),
