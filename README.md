@@ -11,4 +11,5 @@ scaffold, text and image display, color adjustment
 scaffold, вывод на экран текста и изображения, настройку цветов
 
 > Created by Ivan Alekseev based on the Udemy Flutter Bootcamp 2021 Course
+
 > Создано Иваном Алексеевым на основе курса Udemy Flutter Bootcamp 2021
