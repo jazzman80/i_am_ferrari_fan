@@ -10,5 +10,6 @@ scaffold, text and image display, color adjustment
 Простое material app приложение, реализующее основные функции Flutter: 
 scaffold, вывод на экран текста и изображения, настройку цветов
 
+![Screenshot](/images/Screen.png)
 
 > Created by Ivan Alekseev based on the Udemy Flutter Bootcamp 2021 Course
